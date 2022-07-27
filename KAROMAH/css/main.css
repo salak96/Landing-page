@@ -846,7 +846,7 @@ h2.title {
     right: 0;
 }
 
-.productinfo h2 {
+. h2 {
     color: #FE980F;
     font-family: 'Roboto', sans-serif;
     font-size: 24px;
@@ -860,18 +860,18 @@ h2.title {
     font-weight: 700;
 }
 
-.productinfo p {
+. p {
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     font-weight: 400;
     color: #696763;
 }
 
-.productinfo img {
+. img {
     width: 100%;
 }
 
-.productinfo {
+. {
     position: relative;
 }
 
